@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Dong-Yang Yu and currently a 2rd year Ph.D. student at BUPT.
+I am Dong-Yang Yu and currently a 2nd year Ph.D. student at BUPT.
 
 You can find more information about me here: https://dyyucs.github.io/
